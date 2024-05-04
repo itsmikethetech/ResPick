@@ -11,8 +11,11 @@ Features
 With ResPick, you can:
 
 Customize: Personalize your Windows experience with scripts that modify the look and feel of your desktop, taskbar, start menu, and more.
+
 Optimize: Improve system performance with scripts that tweak memory usage, CPU priority, power settings, and other system parameters.
+
 Automate: Simplify repetitive tasks with scripts that automate file management, system cleanup, software updates, and more.
+
 Secure: Enhance your security with scripts that manage firewall settings, privacy options, user permissions, and more.
 
 Community Driven
