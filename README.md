@@ -2,7 +2,7 @@ WinPick: Unlock the Full Potential of Windows
 
 Welcome to WinPick, your key to unlocking the full potential of Microsoft Windows. The name WinPick is a play on words for “Windows Lockpick”, symbolizing its ability to unlock hidden and underutilized features in Windows.
 
-![winpick](https://github.com/itsmikethetech/WinPick/assets/25166211/208e288c-e338-4880-9e15-00512f8784c0)
+![winpick](https://github.com/itsmikethetech/WinPick/assets/25166211/208e288c-e338-4880-9e15-00512f8784c0 | width=100)
 
 Overview
 
